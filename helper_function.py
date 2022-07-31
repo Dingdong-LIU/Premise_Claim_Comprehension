@@ -27,7 +27,7 @@ def get_claims(x, return_list_of_strings=True):
     """
     claim_object_list = []
     for i in x['answers']:
-        if i: # filter out empty objects
+        if i and i['claim'] != '': # filter out empty objects
             claim_object_list.append(i['claim'])
     if return_list_of_strings:
         return [m['content'] for n in claim_object_list for m in n]
