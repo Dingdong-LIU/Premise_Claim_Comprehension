@@ -69,3 +69,23 @@ def get_objects(x, return_list_of_string=True, objects_type="claim"):
     if return_list_of_string:
         return [m['content'] for n in object_list for m in n]
     return object_list
+
+def fill_labels(x, labels, fill_term='claim'):
+    """fill center claims or center premises back to json file
+
+    Args:
+        x (dict): Json file loaded by json package. The file should follow format as specified in this project
+        labels (list): A list of center claims or premises. The sentences will be filled one by one to the Json file.
+        fill_term (str, optional): Fill 'claim' or 'premise'. Should be one of the above two strings. Defaults to 'claim'.
+
+    Returns:
+        _type_: _description_
+    """
+    assert len(labels) > 0, f'labels should not be an empty list'
+    assert fill_term in ['claim' , 'premise'], f"fill_term should be one of 'claim' or 'premise', but your input is {fill_term}"
+    content_name = 'premiseCenter' if fill_term == 'premise' else 'claimCenter'
+    for i in x['answers']:
+        if i:
+            for j in i[fill_term]:
+                j[content_name] = labels.pop(0)
+    return x
