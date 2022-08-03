@@ -69,4 +69,3 @@ def get_objects(x, return_list_of_string=True, objects_type="claim"):
     if return_list_of_string:
         return [m['content'] for n in object_list for m in n]
     return object_list
-
