@@ -81,7 +81,7 @@ def fill_labels(x, labels, fill_term='claim'):
     Returns:
         _type_: _description_
     """
-    assert len(labels) > 0, f'labels should not be an empty list'
+    assert len(labels) > 0, 'labels should not be an empty list'
     assert fill_term in ['claim' , 'premise'], f"fill_term should be one of 'claim' or 'premise', but your input is {fill_term}"
     content_name = 'premiseCenter' if fill_term == 'premise' else 'claimCenter'
     for i in x['answers']:

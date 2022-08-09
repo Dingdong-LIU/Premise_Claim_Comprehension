@@ -2,6 +2,7 @@
 # data files and large model files
 ._*
 pretrained_models
+.DS_STORE
 
 ## python gitignore template
 
