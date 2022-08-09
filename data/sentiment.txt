@@ -1,0 +1,21 @@
+# {0: 4, 1: 5, 2: 2, 3: 1, 4: 2, 5: 1, 6: 1, 7: 2, 8: 11, 9: 3, 10: 11, 11: 9}
+
+Neutral:
+0(4):	It’s not too late to invest.	Neutral [0.08583017 0.523826   0.39034384]
+3(1):	That’s up to you.	Neutral [0.1263142  0.6291365  0.24454929]
+4(2):	It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in.	Neutral [0.03835858 0.6006397  0.3610017 ]
+6(1):	The significant thing is to do your own research and comprehend the dangers.	Neutral [0.20374408 0.5943331  0.20192279]
+8(11):	Invest in Bitcoin, only if you are okay to loss all.	Neutral [0.12382859 0.6748595  0.20131189]
+10(11):	Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.	Neutral [0.24551722 0.46519783 0.28928494]
+11(9):	If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy	Neutral [0.06100962 0.67558384 0.26340657]
+
+Positive:
+2(2):	I would say YES!	Positive [0.05781842 0.35636958 0.585812  ]
+9(3):	Of course you should	Positive [0.08770519 0.4092998  0.502995  ]
+
+
+Negative:
+1(5):	Bitcoin is pretty useless. But so is gold.	Negative [0.8139582  0.1498139  0.03622784]
+5(1):	Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.	Negative [0.91031617 0.07403158 0.01565221]
+7(2):	It is almost certainly in a bubble.	Negative [0.67768484 0.2806811  0.04163405]
+
