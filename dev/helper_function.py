@@ -70,7 +70,7 @@ def get_objects(x, return_list_of_string=True, objects_type="claim"):
         return [m['content'] for n in object_list for m in n]
     return object_list
 
-def fill_labels(x, labels, fill_term='claim'):
+def fill_labels(x, labels, fill_term='claim', content_name='claimCenter'):
     """fill center claims or center premises back to json file
 
     Args:
@@ -83,10 +83,38 @@ def fill_labels(x, labels, fill_term='claim'):
     """
     assert len(labels) > 0, 'labels should not be an empty list'
     assert fill_term in ['claim' , 'premise'], f"fill_term should be one of 'claim' or 'premise', but your input is {fill_term}"
-    content_name = 'premiseCenter' if fill_term == 'premise' else 'claimCenter'
+    # content_name = 'premiseCenter' if fill_term == 'premise' else 'claimCenter'
     for i in x['answers']:
         if i:
             for j in i[fill_term]:
                 j[content_name] = labels.pop(0)
     return x
-    
+
+def get_posts(x, verbose=True):
+    posts = []
+    for i in x['answers']:
+        if i:
+            posts.append(i)
+    if verbose:
+        print(f"Get {len(posts)} non-empty posts")
+    return posts
+
+def has_claims(post):
+    return len(post['claim']) > 0
+
+def has_premises(post):
+    return len(post['premise']) > 0
+
+def map_premises_claims(post):
+    # when there is one claim in a post, all premises should map to it
+    if len(post['claim']) == 1:
+        return [post['claim'][0]['content'] for _ in range(len(post['premise']))]
+    # when there are multiple claims in a post, fill in order
+    if len(post['claim']) >= len(post['premise']):
+        return [post['claim'][i]['content'] for i in range(len(post['premise']))]
+    else:
+        current_list = [post['claim'][i]['content'] for i in range(len(post['claim']))]
+        add_list = [post['claim'][-1]['content'] for _ in range(len(post['premise'])-len(post['claim']))]
+        current_list.extend(add_list)
+        return current_list
+    return []
