@@ -63,10 +63,14 @@ class KeyBERTExtractor:
         """
         if fast_algo:
             return self.model.extract_keywords(doc, keyphrase_ngram_range=keyphrase_ngram_range, stop_words=stop_words, top_n=keep_term)
+        
+        if isinstance(doc, str):
+            return self.model.extract_keywords(
+                doc, keyphrase_ngram_range=keyphrase_ngram_range, stop_words=stop_words, top_n=keep_term, use_mmr=True, use_maxsum=False)
 
         output = []
         for i in doc:
             term_feature = self.model.extract_keywords(
-                i, keyphrase_ngram_range=keyphrase_ngram_range, stop_words=stop_words, top_n=keep_term)
+                i, keyphrase_ngram_range=keyphrase_ngram_range, stop_words=stop_words, top_n=keep_term, use_mmr=True, use_maxsum=False)
             output.append(term_feature)
         return output
