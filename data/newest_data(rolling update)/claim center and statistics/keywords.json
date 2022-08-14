@@ -472,6 +472,67 @@
     },
     {
         "content": "The significant thing is to do your own research and comprehend the dangers.",
-        "keywords": []
+        "keywords": [
+            [
+                "investors",
+                0.488
+            ],
+            [
+                "cash",
+                0.4217
+            ],
+            [
+                "smart",
+                0.3561
+            ],
+            [
+                "encourage",
+                0.2686
+            ],
+            [
+                "lose",
+                0.2541
+            ],
+            [
+                "chance",
+                0.2214
+            ],
+            [
+                "consistently",
+                0.1785
+            ],
+            [
+                "stories",
+                0.1726
+            ],
+            [
+                "never",
+                0.1524
+            ],
+            [
+                "web",
+                0.1191
+            ],
+            [
+                "reveal",
+                0.0997
+            ],
+            [
+                "numerous",
+                0.0822
+            ],
+            [
+                "stand",
+                0.0636
+            ],
+            [
+                "may",
+                0.0621
+            ],
+            [
+                "celebrated",
+                -0.0107
+            ]
+        ]
     }
 ]
