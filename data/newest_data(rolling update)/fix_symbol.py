@@ -1,0 +1,1 @@
+# This file is used to fix \u2019 symbol of the published json files
