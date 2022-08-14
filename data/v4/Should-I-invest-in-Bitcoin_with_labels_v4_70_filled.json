@@ -856,7 +856,18 @@
                     "claimSentiment": "Positive"
                 }
             ],
-            "premise": []
+            "premise": [
+                {
+                    "content": "The fact is that not everyone is willing to sacrifice their time and money, especially when they don\u2019t get instant gratification.",
+                    "premiseCenter": "",
+                    "supportClaim": "The simple answer is Yes."
+                },
+                {
+                    "content": "Investing in bitcoin is the fastest way to attain great wealth when you invest with a legit paying platform like (www.bitflash.eu). They guarantee profits both weekly and monthly. It would be advisable to start with the smallest mining plan especially if you are a beginner and you are scared of the risk involved. For those that have been trading with legitimate platforms.",
+                    "premiseCenter": "",
+                    "supportClaim": "The simple answer is Yes."
+                }
+            ]
         },
         null,
         null,
@@ -886,7 +897,7 @@
             "claim": [
                 {
                     "content": "It is unwise not to invest in Bitcoin.",
-                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimCenter": "I would say YES!",
                     "claimSentiment": "Neutral"
                 },
                 {
@@ -898,6 +909,11 @@
             "premise": [
                 {
                     "content": "One of the proof cryptocurrencies are not ready yet, is the extremely fluctuating value that solely driven by \u201cdemand\u201d and \u201cpotential\u201d, instead of real-world implementation.",
+                    "premiseCenter": "",
+                    "supportClaim": "It is almost certainly in a bubble."
+                },
+                {
+                    "content": "The value of bitcoin seven years ago was $0.05 and last month it reached $5,000 which means 100,000 times increase in seven years.",
                     "premiseCenter": "",
                     "supportClaim": "It is unwise not to invest in Bitcoin."
                 }
