@@ -189,7 +189,7 @@
                 {
                     "content": "Absolutely.",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -889,7 +889,7 @@
                 {
                     "content": "Yes.",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1038,7 +1038,7 @@
                 {
                     "content": "Yes, definitely.",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1065,7 +1065,7 @@
                 {
                     "content": "Yes!",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1398,7 +1398,7 @@
                 {
                     "content": "Yes",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1789,7 +1789,7 @@
                 {
                     "content": "Yes.",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1878,7 +1878,7 @@
                 {
                     "content": "Not yet.",
                     "claimCenter": "Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
