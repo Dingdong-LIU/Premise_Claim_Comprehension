@@ -3,6 +3,7 @@
 ._*
 pretrained_models
 .DS_STORE
+.DS_Store
 
 ## python gitignore template
 
