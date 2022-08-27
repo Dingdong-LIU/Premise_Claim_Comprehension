@@ -1,46 +1,91 @@
 [
     {
-        "content": "Yes, I would.",
+        "content": "Yes, you would.",
         "keywords": [
             [
                 "driving",
-                0.3784
+                0.4391
             ],
             [
                 "trust",
-                0.2985
-            ],
-            [
-                "self",
-                0.2577
-            ],
-            [
-                "insurance",
-                0.2211
+                0.2743
             ],
             [
                 "safer",
-                0.2043
+                0.2704
             ],
             [
-                "recharge",
-                0.1563
+                "computers",
+                0.2507
             ],
             [
-                "useless",
-                0.0914
+                "insurance",
+                0.2266
             ],
             [
-                "maybe",
-                0.0823
+                "mother",
+                0.2101
             ],
             [
-                "geniuses",
-                0.0657
+                "personally",
+                0.1871
             ],
             [
-                "hotspot",
-                0.0609
+                "stanford",
+                0.1705
+            ],
+            [
+                "straightway",
+                0.1662
+            ],
+            [
+                "airport",
+                0.1352
+            ]
+        ]
+    },
+    {
+        "content": "the research shows people are amazingly trusting of them",
+        "keywords": [
+            [
+                "roadways",
+                0.413
+            ],
+            [
+                "tolls",
+                0.3701
+            ],
+            [
+                "dangers",
+                0.3379
+            ],
+            [
+                "trusting",
+                0.3111
+            ],
+            [
+                "prototypes",
+                0.2141
+            ],
+            [
+                "civilians",
+                0.202
+            ],
+            [
+                "neutralized",
+                0.1512
+            ],
+            [
+                "cost",
+                0.1203
+            ],
+            [
+                "perhaps",
+                0.095
+            ],
+            [
+                "today",
+                0.0715
             ]
         ]
     },
@@ -49,178 +94,223 @@
         "keywords": [
             [
                 "driving",
-                0.4886
+                0.517
             ],
-            [
-                "self",
-                0.3348
-            ],
-            [
-                "legal",
-                0.1524
-            ],
-            [
-                "safe",
-                0.1274
-            ],
-            [
-                "urban",
-                0.11
-            ],
-            [
-                "handle",
-                0.1008
-            ],
-            [
-                "meetings",
-                0.0982
-            ],
-            [
-                "emails",
-                0.0896
-            ],
-            [
-                "would",
-                0.0499
-            ],
-            [
-                "liabilities",
-                0.0466
-            ]
-        ]
-    },
-    {
-        "content": "Yes - in a few years it might be safer than me driving.",
-        "keywords": [
             [
                 "parking",
-                0.4638
-            ],
-            [
-                "driver",
-                0.2471
-            ],
-            [
-                "dui",
-                0.1744
-            ],
-            [
-                "self",
-                0.1713
-            ],
-            [
-                "finding",
-                0.1331
-            ],
-            [
-                "someday",
-                0.1242
-            ],
-            [
-                "prevent",
-                0.1214
+                0.382
             ],
             [
                 "insurance",
-                0.1195
+                0.3205
             ],
             [
-                "go",
-                0.0985
+                "dui",
+                0.3054
             ],
             [
-                "especially",
-                0.0142
+                "license",
+                0.3017
+            ],
+            [
+                "rights",
+                0.2144
+            ],
+            [
+                "unmanned",
+                0.1285
+            ],
+            [
+                "benders",
+                0.1049
+            ],
+            [
+                "watch",
+                0.0817
+            ],
+            [
+                "never",
+                0.024
             ]
         ]
     },
     {
-        "content": "Yes, I really would like to have a self-driving car.",
+        "content": "Absolutely. I hate driving, and can\u2019t wait to never have to do it again.",
         "keywords": [
             [
-                "automobiles",
-                0.4353
+                "driving",
+                0.4756
+            ],
+            [
+                "bmw",
+                0.3497
+            ],
+            [
+                "motorcycles",
+                0.2962
+            ],
+            [
+                "cab",
+                0.2955
+            ],
+            [
+                "italy",
+                0.1927
+            ],
+            [
+                "liberally",
+                0.1256
+            ],
+            [
+                "society",
+                0.1211
+            ],
+            [
+                "would",
+                0.085
+            ],
+            [
+                "point",
+                0.0627
+            ],
+            [
+                "tachometer",
+                0.0155
+            ]
+        ]
+    },
+    {
+        "content": "Yes, I really would like to have a self-driving car",
+        "keywords": [
+            [
+                "driving",
+                0.4258
+            ],
+            [
+                "taxi",
+                0.4077
             ],
             [
                 "autopilot",
-                0.3282
+                0.3582
             ],
             [
-                "dangers",
-                0.3203
+                "self",
+                0.3048
             ],
             [
-                "inattentive",
-                0.3114
+                "trust",
+                0.1703
             ],
             [
-                "maintenance",
-                0.2775
-            ],
-            [
-                "lifetimes",
-                0.2632
-            ],
-            [
-                "dystopia",
-                0.2321
-            ],
-            [
-                "mirror",
-                0.1936
+                "invents",
+                0.1282
             ],
             [
                 "crashes",
-                0.1684
+                0.1111
             ],
             [
-                "react",
-                0.1157
+                "component",
+                0.1046
+            ],
+            [
+                "needs",
+                0.1006
+            ],
+            [
+                "never",
+                0.0707
             ]
         ]
     },
     {
-        "content": "Yes.",
+        "content": "Yes, I will.",
         "keywords": [
             [
-                "driverless",
-                0.5171
+                "driving",
+                0.4965
             ],
             [
+                "productivity",
+                0.4393
+            ],
+            [
+                "tesla",
+                0.3235
+            ],
+            [
+                "computer",
+                0.3156
+            ],
+            [
+                "relaxed",
+                0.2728
+            ],
+            [
+                "park",
+                0.2529
+            ],
+            [
+                "alert",
+                0.1972
+            ],
+            [
+                "hours",
+                0.1754
+            ],
+            [
+                "would",
+                0.143
+            ],
+            [
+                "commercial",
+                0.1325
+            ]
+        ]
+    },
+    {
+        "content": "Yes, definitely.",
+        "keywords": [
+            [
                 "driving",
-                0.4749
+                0.4818
             ],
             [
                 "uber",
-                0.3602
+                0.4494
             ],
             [
-                "traffic",
-                0.2889
+                "control",
+                0.2702
             ],
             [
-                "self",
-                0.2729
+                "avoid",
+                0.2344
             ],
             [
-                "safer",
-                0.2714
+                "curb",
+                0.2177
             ],
             [
-                "blind",
-                0.2163
+                "foolish",
+                0.1742
             ],
             [
-                "guide",
-                0.1279
+                "tedium",
+                0.1445
             ],
             [
-                "crashes",
-                0.111
+                "much",
+                0.1329
             ],
             [
-                "average",
-                0.0119
+                "centrifugal",
+                0.0869
+            ],
+            [
+                "button",
+                0.0773
             ]
         ]
     },
@@ -228,224 +318,183 @@
         "content": "Yes, as soon as they work and are available at a reasonable price.",
         "keywords": [
             [
+                "airplanes",
+                0.3614
+            ],
+            [
+                "crashes",
+                0.3179
+            ],
+            [
                 "driving",
-                0.4354
+                0.2688
             ],
             [
-                "parking",
-                0.38
-            ],
-            [
-                "commuting",
-                0.3387
-            ],
-            [
-                "self",
-                0.2139
-            ],
-            [
-                "expensive",
-                0.1889
-            ],
-            [
-                "cab",
-                0.1598
-            ],
-            [
-                "unmanned",
-                0.1371
-            ],
-            [
-                "san",
-                0.1347
-            ],
-            [
-                "cool",
-                0.0521
-            ],
-            [
-                "never",
-                0.0418
-            ]
-        ]
-    },
-    {
-        "content": "No. It is too early in the technology to be able to trust the self-driving car.",
-        "keywords": [
-            [
-                "drivers",
-                0.3611
-            ],
-            [
-                "development",
-                0.3308
-            ],
-            [
-                "technicians",
-                0.2947
-            ],
-            [
-                "autonomous",
-                0.2716
-            ],
-            [
-                "mobile",
-                0.2558
-            ],
-            [
-                "maintenance",
-                0.2548
-            ],
-            [
-                "failures",
-                0.2348
+                "statistics",
+                0.2517
             ],
             [
                 "safety",
-                0.2323
+                0.2188
             ],
             [
-                "bug",
-                0.1666
+                "mobile",
+                0.1629
             ],
             [
-                "would",
-                0.0273
+                "productivity",
+                0.1619
+            ],
+            [
+                "plenty",
+                0.153
+            ],
+            [
+                "expensive",
+                0.1487
+            ],
+            [
+                "smarter",
+                0.0996
             ]
         ]
     },
     {
-        "content": "I love to drive on a nice day with little or no traffic. At all other times, I'll have my car drive for me.",
+        "content": "I think that this technology has the potential to be very safe and convenient",
+        "keywords": []
+    },
+    {
+        "content": "Yes",
         "keywords": [
             [
                 "driving",
-                0.4628
+                0.4742
             ],
             [
-                "cab",
-                0.2679
-            ],
-            [
-                "autopilot",
-                0.1946
-            ],
-            [
-                "pleasure",
-                0.1688
-            ],
-            [
-                "lazy",
-                0.151
-            ],
-            [
-                "philly",
-                0.1216
-            ],
-            [
-                "would",
-                0.1184
-            ],
-            [
-                "point",
-                0.0954
-            ],
-            [
-                "i95",
-                0.075
-            ],
-            [
-                "humans",
-                0.0514
-            ]
-        ]
-    },
-    {
-        "content": "In the case I've described two paragraphs above, I'm really lost as to what fact based evidence could be used to chose the human.",
-        "keywords": [
-            [
-                "ai",
-                0.4683
-            ],
-            [
-                "driver",
-                0.4083
-            ],
-            [
-                "distractions",
-                0.2498
-            ],
-            [
-                "google",
-                0.2447
-            ],
-            [
-                "performance",
-                0.2177
-            ],
-            [
-                "persons",
-                0.1701
-            ],
-            [
-                "average",
-                0.1606
-            ],
-            [
-                "limitations",
-                0.1514
-            ],
-            [
-                "mile",
-                0.1371
-            ],
-            [
-                "instead",
-                0.1365
-            ]
-        ]
-    },
-    {
-        "content": "Nope. Absolutely not!",
-        "keywords": [
-            [
-                "driving",
-                0.4106
-            ],
-            [
-                "autonomously",
-                0.3898
+                "driverless",
+                0.4327
             ],
             [
                 "uber",
-                0.3527
-            ],
-            [
-                "self",
-                0.3197
+                0.417
             ],
             [
                 "safer",
-                0.2368
+                0.2865
             ],
             [
-                "navigating",
-                0.2304
+                "self",
+                0.2782
             ],
             [
-                "pedestrian",
-                0.2089
+                "pedestrians",
+                0.1789
+            ],
+            [
+                "crashes",
+                0.1706
+            ],
+            [
+                "cruse",
+                0.1462
+            ],
+            [
+                "sure",
+                0.0683
+            ],
+            [
+                "average",
+                0.0188
+            ]
+        ]
+    },
+    {
+        "content": "What I mean is, autonomous cars would be great, IF THEY WERE THE ONLY CARS OUT THERE",
+        "keywords": [
+            [
+                "autonomous",
+                0.4131
+            ],
+            [
+                "drive",
+                0.3188
+            ],
+            [
+                "engineer",
+                0.3173
+            ],
+            [
+                "expert",
+                0.2829
+            ],
+            [
+                "safety",
+                0.2493
+            ],
+            [
+                "failures",
+                0.2296
+            ],
+            [
+                "geniuses",
+                0.1906
+            ],
+            [
+                "maintaining",
+                0.1807
+            ],
+            [
+                "calibrated",
+                0.1601
+            ],
+            [
+                "perhaps",
+                0.1032
+            ]
+        ]
+    },
+    {
+        "content": "Absolutely not!",
+        "keywords": [
+            [
+                "driverless",
+                0.4527
+            ],
+            [
+                "autonomously",
+                0.4444
+            ],
+            [
+                "selfless",
+                0.407
+            ],
+            [
+                "autopilot",
+                0.3712
+            ],
+            [
+                "cars",
+                0.3416
+            ],
+            [
+                "safer",
+                0.2346
             ],
             [
                 "generation",
-                0.17
+                0.21
             ],
             [
-                "possibly",
-                0.0335
+                "pedestrian",
+                0.2064
             ],
             [
-                "slope",
-                0.0133
+                "trust",
+                0.202
+            ],
+            [
+                "navigating",
+                0.1855
             ]
         ]
     }

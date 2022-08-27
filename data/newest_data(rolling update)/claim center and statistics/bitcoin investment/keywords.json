@@ -1,91 +1,91 @@
 [
     {
-        "content": "It’s not too late to invest.",
+        "content": "It\u2019s not too late to invest",
         "keywords": [
             [
                 "bitcoin",
-                0.5662
+                0.5353
             ],
             [
                 "investing",
-                0.4897
+                0.4592
             ],
             [
                 "liquidity",
-                0.341
+                0.3268
             ],
             [
-                "inflation",
-                0.3356
+                "opportunities",
+                0.2963
             ],
             [
-                "opportunity",
-                0.275
+                "launch",
+                0.2276
             ],
             [
                 "date",
-                0.1964
+                0.222
             ],
             [
                 "rethink",
-                0.1926
+                0.1615
             ],
             [
-                "open",
-                0.1817
+                "volatile",
+                0.141
             ],
             [
                 "know",
-                0.1504
+                0.1385
             ],
             [
-                "everything",
-                0.1037
+                "vessel",
+                0.1219
             ]
         ]
     },
     {
-        "content": "Bitcoin is pretty useless. But so is gold.",
+        "content": "Bitcoin is like digital gold",
         "keywords": [
             [
                 "bitcoin",
-                0.5469
+                0.5359
             ],
             [
-                "inflation",
-                0.3919
+                "inflationary",
+                0.4149
+            ],
+            [
+                "investment",
+                0.3422
             ],
             [
                 "scarcity",
-                0.3134
+                0.3325
             ],
             [
-                "gold",
-                0.2684
+                "volatility",
+                0.2618
             ],
             [
-                "hedge",
-                0.2561
+                "unpredictable",
+                0.2252
+            ],
+            [
+                "price",
+                0.2198
             ],
             [
                 "argue",
-                0.2386
+                0.2024
             ],
             [
-                "intrinsic",
-                0.2171
+                "2017",
+                0.2002
             ],
             [
-                "useful",
-                0.1903
-            ],
-            [
-                "horses",
-                0.1762
-            ],
-            [
-                "abruptly",
-                0.098
+                "concept",
+                0.168
             ]
         ]
     },
@@ -93,89 +93,363 @@
         "content": "Invest in Bitcoin, only if you are okay to loss all.",
         "keywords": [
             [
-                "futures",
-                0.4698
+                "investing",
+                0.4367
             ],
             [
                 "bitcoin",
-                0.3795
+                0.4254
             ],
             [
-                "invest",
-                0.3657
+                "income",
+                0.3924
             ],
             [
-                "upside",
-                0.3581
+                "pocket",
+                0.3103
             ],
             [
-                "bullish",
-                0.2991
+                "disposable",
+                0.2909
             ],
             [
-                "2020",
-                0.2182
+                "2017",
+                0.2242
             ],
             [
-                "rise",
-                0.2159
+                "pinstripe",
+                0.2242
             ],
             [
-                "fluctuate",
-                0.2089
+                "mismanagement",
+                0.2126
             ],
             [
-                "thinking",
-                0.1978
+                "wheelbarrow",
+                0.1424
             ],
             [
-                "months",
-                0.1411
+                "physical",
+                0.1029
             ]
         ]
     },
     {
-        "content": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
+        "content": "Bitcoin is a highly risky investment and not fit for everyone.",
         "keywords": [
             [
+                "bitcoin",
+                0.4239
+            ],
+            [
+                "hacking",
+                0.3751
+            ],
+            [
                 "investing",
-                0.5114
+                0.3686
             ],
             [
-                "cryptocurrencies",
-                0.4607
+                "risk",
+                0.3408
             ],
             [
-                "litecoin",
-                0.3269
+                "fraud",
+                0.2558
             ],
             [
-                "risky",
-                0.2461
+                "vegas",
+                0.2425
             ],
             [
-                "decade",
-                0.2151
+                "fdic",
+                0.2255
             ],
             [
-                "eth",
-                0.1706
-            ],
-            [
-                "become",
-                0.17
-            ],
-            [
-                "layer",
-                0.1499
-            ],
-            [
-                "price",
-                0.1391
+                "regulations",
+                0.2095
             ],
             [
                 "crashes",
-                0.0952
+                0.1413
+            ],
+            [
+                "silly",
+                0.1405
+            ]
+        ]
+    },
+    {
+        "content": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+        "keywords": [
+            [
+                "cryptocurrency",
+                0.5062
+            ],
+            [
+                "inflation",
+                0.4174
+            ],
+            [
+                "invest",
+                0.354
+            ],
+            [
+                "hedge",
+                0.2612
+            ],
+            [
+                "scarce",
+                0.2363
+            ],
+            [
+                "useful",
+                0.2052
+            ],
+            [
+                "gold",
+                0.2024
+            ],
+            [
+                "unregulated",
+                0.1912
+            ],
+            [
+                "eth",
+                0.1862
+            ],
+            [
+                "years",
+                0.1544
+            ]
+        ]
+    },
+    {
+        "content": "Yes, you should.",
+        "keywords": [
+            [
+                "investing",
+                0.5145
+            ],
+            [
+                "cryptocurrency",
+                0.5131
+            ],
+            [
+                "mining",
+                0.3553
+            ],
+            [
+                "cryptoblock",
+                0.3324
+            ],
+            [
+                "beginner",
+                0.3026
+            ],
+            [
+                "safest",
+                0.2225
+            ],
+            [
+                "weekly",
+                0.2006
+            ],
+            [
+                "100x",
+                0.1952
+            ],
+            [
+                "eth",
+                0.1782
+            ],
+            [
+                "self",
+                0.1492
+            ]
+        ]
+    },
+    {
+        "content": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+        "keywords": [
+            [
+                "cryptocurrencies",
+                0.5357
+            ],
+            [
+                "bitcoin",
+                0.4935
+            ],
+            [
+                "investment",
+                0.3777
+            ],
+            [
+                "currency",
+                0.3647
+            ],
+            [
+                "digital",
+                0.208
+            ],
+            [
+                "decade",
+                0.2013
+            ],
+            [
+                "predict",
+                0.1816
+            ],
+            [
+                "fluctuate",
+                0.1724
+            ],
+            [
+                "risky",
+                0.1637
+            ],
+            [
+                "become",
+                0.1026
+            ]
+        ]
+    },
+    {
+        "content": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+        "keywords": [
+            [
+                "bitcoin",
+                0.5642
+            ],
+            [
+                "currency",
+                0.487
+            ],
+            [
+                "worldwide",
+                0.3786
+            ],
+            [
+                "economy",
+                0.3664
+            ],
+            [
+                "merchants",
+                0.3206
+            ],
+            [
+                "internet",
+                0.2765
+            ],
+            [
+                "impact",
+                0.2323
+            ],
+            [
+                "storing",
+                0.2035
+            ],
+            [
+                "circulation",
+                0.1695
+            ],
+            [
+                "ecosystem",
+                0.1512
+            ]
+        ]
+    },
+    {
+        "content": "It should be used to determine the trend: up, down, neutral",
+        "keywords": [
+            [
+                "futures",
+                0.4913
+            ],
+            [
+                "upside",
+                0.4035
+            ],
+            [
+                "forecasters",
+                0.3118
+            ],
+            [
+                "bitcoin",
+                0.2978
+            ],
+            [
+                "price",
+                0.1817
+            ],
+            [
+                "potential",
+                0.1637
+            ],
+            [
+                "reason",
+                0.1472
+            ],
+            [
+                "realistic",
+                0.1218
+            ],
+            [
+                "crash",
+                0.1109
+            ],
+            [
+                "first",
+                0.0378
+            ]
+        ]
+    },
+    {
+        "content": "This is massive",
+        "keywords": []
+    },
+    {
+        "content": "The significant thing is to do your own research and comprehend the dangers",
+        "keywords": [
+            [
+                "investing",
+                0.4438
+            ],
+            [
+                "coin",
+                0.442
+            ],
+            [
+                "hub",
+                0.3013
+            ],
+            [
+                "vest",
+                0.2871
+            ],
+            [
+                "lose",
+                0.1881
+            ],
+            [
+                "rise",
+                0.1653
+            ],
+            [
+                "exciting",
+                0.1541
+            ],
+            [
+                "class",
+                0.1508
+            ],
+            [
+                "varied",
+                0.1172
+            ],
+            [
+                "never",
+                0.116
             ]
         ]
     },
@@ -184,359 +458,93 @@
         "keywords": [
             [
                 "cryptocurrencies",
-                0.5953
+                0.5409
             ],
             [
-                "demand",
-                0.4479
+                "greed",
+                0.3977
+            ],
+            [
+                "investment",
+                0.315
+            ],
+            [
+                "speculative",
+                0.2871
+            ],
+            [
+                "value",
+                0.2547
+            ],
+            [
+                "broke",
+                0.2498
+            ],
+            [
+                "rise",
+                0.1899
+            ],
+            [
+                "today",
+                0.1876
             ],
             [
                 "fluctuating",
-                0.3745
+                0.1724
             ],
             [
-                "potential",
-                0.3101
-            ],
-            [
-                "value",
-                0.2757
-            ],
-            [
-                "real",
-                0.2335
-            ],
-            [
-                "driven",
-                0.2077
-            ],
-            [
-                "yet",
-                0.1854
-            ],
-            [
-                "implementation",
-                0.1198
-            ],
-            [
-                "ready",
-                0.0237
+                "coronavirus",
+                0.1585
             ]
         ]
     },
     {
-        "content": "Of course you should",
+        "content": "You can see the gains!",
         "keywords": [
             [
-                "cryptocurrency",
-                0.5907
+                "inflation",
+                0.627
             ],
             [
                 "bitcoin",
-                0.5371
+                0.5107
             ],
             [
-                "investing",
-                0.4589
+                "60000",
+                0.3594
             ],
             [
-                "earn",
-                0.2968
+                "10years",
+                0.2868
             ],
             [
-                "decentralized",
-                0.2654
+                "tremendous",
+                0.1593
             ],
             [
-                "digital",
-                0.1714
+                "results",
+                0.1287
             ],
             [
-                "world",
-                0.1603
+                "human",
+                0.1256
             ],
             [
-                "trade",
-                0.1224
+                "history",
+                0.1029
             ],
             [
-                "pattern",
-                0.0566
+                "nothing",
+                0.0745
             ],
             [
-                "seems",
-                0.0391
+                "immune",
+                0.051
             ]
         ]
     },
     {
-        "content": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-        "keywords": [
-            [
-                "bitcoin",
-                0.5067
-            ],
-            [
-                "investment",
-                0.3057
-            ],
-            [
-                "unpredictable",
-                0.2332
-            ],
-            [
-                "censorship",
-                0.2215
-            ],
-            [
-                "governments",
-                0.196
-            ],
-            [
-                "global",
-                0.1819
-            ],
-            [
-                "storing",
-                0.1657
-            ],
-            [
-                "circulation",
-                0.1449
-            ],
-            [
-                "wondering",
-                0.0886
-            ],
-            [
-                "december",
-                0.0822
-            ]
-        ]
-    },
-    {
-        "content": "I would say YES!",
-        "keywords": [
-            [
-                "bitcoin",
-                0.5411
-            ],
-            [
-                "investing",
-                0.4913
-            ],
-            [
-                "mining",
-                0.4052
-            ],
-            [
-                "beginner",
-                0.2962
-            ],
-            [
-                "weekly",
-                0.215
-            ],
-            [
-                "gratification",
-                0.1887
-            ],
-            [
-                "smallest",
-                0.1849
-            ],
-            [
-                "instant",
-                0.1721
-            ],
-            [
-                "fact",
-                0.1207
-            ],
-            [
-                "especially",
-                0.0495
-            ]
-        ]
-    },
-    {
-        "content": "That’s up to you.",
-        "keywords": [
-            [
-                "cryptocurrencies",
-                0.5732
-            ],
-            [
-                "portfolio",
-                0.4366
-            ],
-            [
-                "bitcoin",
-                0.4283
-            ],
-            [
-                "diversified",
-                0.3917
-            ],
-            [
-                "assets",
-                0.3653
-            ],
-            [
-                "risky",
-                0.2879
-            ],
-            [
-                "minority",
-                0.2698
-            ],
-            [
-                "generally",
-                0.169
-            ],
-            [
-                "position",
-                0.1183
-            ],
-            [
-                "well",
-                0.0483
-            ]
-        ]
-    },
-    {
-        "content": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in.",
-        "keywords": [
-            [
-                "bitcoin",
-                0.5631
-            ],
-            [
-                "subjective",
-                0.3805
-            ],
-            [
-                "investment",
-                0.3733
-            ],
-            [
-                "value",
-                0.3442
-            ],
-            [
-                "gamble",
-                0.3276
-            ],
-            [
-                "volatile",
-                0.2612
-            ],
-            [
-                "risky",
-                0.2045
-            ],
-            [
-                "class",
-                0.1881
-            ],
-            [
-                "largely",
-                0.1521
-            ],
-            [
-                "forces",
-                0.0714
-            ]
-        ]
-    },
-    {
-        "content": "Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.",
-        "keywords": [
-            [
-                "cryto",
-                0.4452
-            ],
-            [
-                "currency",
-                0.4192
-            ],
-            [
-                "economic",
-                0.3684
-            ],
-            [
-                "esteems",
-                0.3417
-            ],
-            [
-                "media",
-                0.2387
-            ],
-            [
-                "incredibly",
-                0.1292
-            ],
-            [
-                "cycle",
-                0.1008
-            ],
-            [
-                "hypothesis",
-                0.0896
-            ],
-            [
-                "inclusion",
-                0.0841
-            ],
-            [
-                "move",
-                0.0424
-            ]
-        ]
-    },
-    {
-        "content": "The significant thing is to do your own research and comprehend the dangers.",
-        "keywords": [
-            [
-                "investors",
-                0.488
-            ],
-            [
-                "cash",
-                0.4217
-            ],
-            [
-                "smart",
-                0.3561
-            ],
-            [
-                "encourage",
-                0.2686
-            ],
-            [
-                "lose",
-                0.2541
-            ],
-            [
-                "chance",
-                0.2214
-            ],
-            [
-                "consistently",
-                0.1785
-            ],
-            [
-                "stories",
-                0.1726
-            ],
-            [
-                "never",
-                0.1524
-            ],
-            [
-                "stand",
-                0.0636
-            ]
-        ]
+        "content": "this is your opportunity to learn from someone with over a decade of real world experience",
+        "keywords": []
     }
 ]
