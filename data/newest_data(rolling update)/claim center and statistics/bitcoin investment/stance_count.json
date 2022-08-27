@@ -3,6 +3,7 @@
         "Yes, you should.",
         "This is massive",
         "You can see the gains!",
+        "this is your opportunity to learn from someone with over a decade of real world experience",
         "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
     ],
     "neutral": [
@@ -10,14 +11,12 @@
         "Bitcoin is like digital gold",
         "It should be used to determine the trend: up, down, neutral",
         "The significant thing is to do your own research and comprehend the dangers",
-        "The simple answer is Yes.",
-        "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+        "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
         "Invest in Bitcoin, only if you are okay to loss all.",
         "Think carefully about why you want to invest in cryptocurrency before you do so."
     ],
     "negative": [
         "It is almost certainly in a bubble.",
-        "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
         "Bitcoin is a highly risky investment and not fit for everyone."
     ]
 }

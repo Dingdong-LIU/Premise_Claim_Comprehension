@@ -62,8 +62,8 @@
                 },
                 {
                     "content": "Thinking about the assets you invest in over the long term helps reduce your stress levels",
-                    "claimCenter": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
-                    "claimSentiment": "Negative"
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -156,17 +156,17 @@
             "claim": [
                 {
                     "content": "If you must invest in it, remember the golden rule of investing - Never invest more than what you’re willing to lose",
-                    "claimCenter": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
-                    "claimSentiment": "Negative"
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "If you absolutely must, no more than 10% of your portfolio must be invested in risky assets",
-                    "claimCenter": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
                     "claimSentiment": "Negative"
                 },
                 {
                     "content": "Yes, Bitcoin has its pros",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 }
             ],
@@ -404,7 +404,7 @@
             "claim": [
                 {
                     "content": "If you understand the potential impact of Bitcoin, it won’t be hard to understand why investing in bitcoin may be a good idea",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {
@@ -607,7 +607,7 @@
                 {
                     "content": "It should be used to determine the trend: up, down, neutral",
                     "premiseCenter": "",
-                    "supportClaim": "",
+                    "supportClaim": "None",
                     "supportClaimCenter": ""
                 },
                 {
@@ -652,7 +652,7 @@
             "claim": [
                 {
                     "content": "if you’re wondering should you invest in Bitcoin, the answer is yes",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {
@@ -872,7 +872,7 @@
             "claim": [
                 {
                     "content": "I would say YES! Bitcoin has been a good thing for me and lots of people i am sure",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 }
             ],
@@ -905,7 +905,7 @@
             "claim": [
                 {
                     "content": "If you are looking to invest in a large-cap crypto, ETH could be a better choice due to it’s necessity as an currency for conducting transactions on the Ethereum network, which is continually growing its user base",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {
@@ -951,13 +951,13 @@
             "claim": [
                 {
                     "content": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
                     "claimSentiment": "Neutral"
                 },
                 {
                     "content": "It is more of a gamble than an investment",
-                    "claimCenter": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
-                    "claimSentiment": "Negative"
+                    "claimCenter": "It’s not too late to invest",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1105,21 +1105,21 @@
             "claim": [
                 {
                     "content": "The simple answer is Yes.",
-                    "claimCenter": "The simple answer is Yes.",
-                    "claimSentiment": "Neutral"
+                    "claimCenter": "Yes, you should.",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
                 {
                     "content": "They guarantee profits both weekly and monthly",
                     "premiseCenter": "",
-                    "supportClaim": "The simple answer is Yes",
+                    "supportClaim": "The simple answer is Yes.",
                     "supportClaimCenter": ""
                 },
                 {
                     "content": "It would be advisable to start with the smallest mining plan especially if you are a beginner and you are scared of the risk involved",
                     "premiseCenter": "",
-                    "supportClaim": "The simple answer is Yes",
+                    "supportClaim": "The simple answer is Yes.",
                     "supportClaimCenter": ""
                 }
             ]
@@ -1419,13 +1419,13 @@
             "date": "Tom Hongy",
             "claim": [
                 {
-                    "content": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "content": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {
                     "content": "it also presents a great opportunity for investors who are looking to make quick profits",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {
@@ -1663,12 +1663,12 @@
                 },
                 {
                     "content": "this is your opportunity to learn from someone with over a decade of real world experience",
-                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
-                    "claimSentiment": "Neutral"
+                    "claimCenter": "this is your opportunity to learn from someone with over a decade of real world experience",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "you don’t need to repeat them and learn the hard way",
-                    "claimCenter": "Yes, you should.",
+                    "claimCenter": "this is your opportunity to learn from someone with over a decade of real world experience",
                     "claimSentiment": "Positive"
                 }
             ],
@@ -1716,11 +1716,6 @@
             "date": "11mo",
             "claim": [
                 {
-                    "content": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
-                    "claimCenter": "Risk is inherent in all investments, and no matter how hard you try, you cannot get around it",
-                    "claimSentiment": "Negative"
-                },
-                {
                     "content": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "claimSentiment": "Neutral"
@@ -1753,19 +1748,19 @@
                 {
                     "content": "Getting rich overnight is a risky endeavor if the only goal is to become wealthy. Not every investment opportunity is a sure bet. Also, if you put a lot of money into an investment that doesn't pan out, that could end up being a costly mistake.",
                     "premiseCenter": "",
-                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so",
+                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "supportClaimCenter": ""
                 },
                 {
                     "content": "As well, there is no guarantee what kinds of regulatory issues may arise with regard to digital currencies such as Bitcoin.",
                     "premiseCenter": "",
-                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so",
+                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "supportClaimCenter": ""
                 },
                 {
                     "content": "No one can know if Bitcoin and other cryptocurrencies will be part of the global financial system for another decade or more.",
                     "premiseCenter": "",
-                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so",
+                    "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "supportClaimCenter": ""
                 }
             ]
@@ -1807,13 +1802,13 @@
                 {
                     "content": "Bitcoin is a popular digital asset and payment system",
                     "premiseCenter": "",
-                    "supportClaim": "",
+                    "supportClaim": "None",
                     "supportClaimCenter": ""
                 },
                 {
                     "content": "you need to know to use it and avoid mistakes",
                     "premiseCenter": "",
-                    "supportClaim": "",
+                    "supportClaim": "None",
                     "supportClaimCenter": ""
                 }
             ]
@@ -1905,7 +1900,7 @@
                 },
                 {
                     "content": "One rule of thumb is to invest no more than 10% of your portfolio in individual stocks or risky assets like bitcoin. If you’re new to investing",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 }
             ],
@@ -1953,7 +1948,7 @@
                 {
                     "content": "To invest in bitcoin without running any risk of scam or incompetence, then you are welcome to checkbitcoins",
                     "premiseCenter": "",
-                    "supportClaim": "",
+                    "supportClaim": "None",
                     "supportClaimCenter": ""
                 }
             ]
@@ -2348,7 +2343,7 @@
             "claim": [
                 {
                     "content": "Yes, you can invest in bitcoin.",
-                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes",
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
                     "claimSentiment": "Neutral"
                 },
                 {

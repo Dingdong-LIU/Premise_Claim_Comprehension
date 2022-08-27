@@ -42,28 +42,28 @@
             "claim": [
                 {
                     "content": "The “too late” mindset will ruin your investing\n\npsychology and your potential to make enough money to enjoy your life.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It’s not too late to invest",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Bitcoin is extremely weird",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "The worst way to invest as an everyday person is for the short term.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "The best time to buy bitcoin is when you understand it and see its value.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Thinking about the assets you invest in over the long term helps reduce your stress levels",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -71,43 +71,43 @@
                     "content": "What bitcoin has done to date is irrelevant. If you haven’t bought any or don’t understand it then that’s not the issue. The issue is whether you are openminded enough to rethink everything you know about money and investing. If you are, there is opportunity.\n\nIf your mind is closed, the world is closed, and so are the opportunities.",
                     "premiseCenter": "",
                     "supportClaim": "The “too late” mindset will ruin your investing\n\npsychology and your potential to make enough money to enjoy your life.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "The trouble with bitcoin is it’s not easy to understand. When people don’t understand a concept they quickly dismiss it and call it a scam so they don’t feel stupid.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is extremely weird",
-                    "supportClaimCenter": "Bitcoin is pretty useless. But so is gold."
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "One of my early investments in bitcoin was short term. I bought a lot and then sold it when the price crashed in 2017. That short-term thinking has meant I’m working a few years longer than I need to.",
-                    "premiseCenter" : "",
-                    "supportClaim" : "The worst way to invest as an everyday person is for the short term.",
-                    "supportClaimCenter" : ""
+                    "premiseCenter": "",
+                    "supportClaim": "The worst way to invest as an everyday person is for the short term.",
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "You’re less worried about whether it’s “too late” or “is now a good time” and focused on doing your research and understanding what you’re buying. This phrase sums it up better than I could.",
                     "premiseCenter": "",
                     "supportClaim": "Thinking about the assets you invest in over the long term helps reduce your stress levels",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Physical cash in your wallet and nuggets of gold you take inside with a wheelbarrow is the pre-digital financial world",
                     "premiseCenter": "",
                     "supportClaim": "The best time to buy bitcoin is when you understand it and see its value.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "The world of money is a long way behind advances in technology",
                     "premiseCenter": "",
                     "supportClaim": "The best time to buy bitcoin is when you understand it and see its value.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Bitcoin is trying to catch the financial world up with the digital narrative, so we can use the phone in our pocket to go about our day and store our money without its value being secretly eroded away and taxed by inflation, by the pinstripe suit club",
                     "premiseCenter": "",
                     "supportClaim": "The best time to buy bitcoin is when you understand it and see its value.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 }
             ]
         },
@@ -156,18 +156,18 @@
             "claim": [
                 {
                     "content": "If you must invest in it, remember the golden rule of investing - Never invest more than what you’re willing to lose",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "If you absolutely must, no more than 10% of your portfolio must be invested in risky assets",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "Yes, Bitcoin has its pros",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -175,55 +175,55 @@
                     "content": "It was secure, unregulated and cryptocurrency seems like the future",
                     "premiseCenter": "",
                     "supportClaim": "Yes, Bitcoin has its pros",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Decentralized",
                     "premiseCenter": "",
                     "supportClaim": "Yes, Bitcoin has its pros",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Operates on Blockchain technology",
                     "premiseCenter": "",
                     "supportClaim": "Yes, Bitcoin has its pros",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "it’s also unregulated(see what I did there?)",
                     "premiseCenter": "",
                     "supportClaim": "Yes, Bitcoin has its pros",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Has no intrinsic value",
                     "premiseCenter": "",
                     "supportClaim": "If you must invest in it, remember the golden rule of investing - Never invest more than what you’re willing to lose",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "it’s highly volatile",
                     "premiseCenter": "",
                     "supportClaim": "If you must invest in it, remember the golden rule of investing - Never invest more than what you’re willing to lose",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "There are people that have forecasted the price of Bitcoin to hit 100,000$ a coin in ten years",
                     "premiseCenter": "",
                     "supportClaim": "Yes, Bitcoin has its pros",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "But I’m going to stay out of it",
                     "premiseCenter": "",
                     "supportClaim": "If you must invest in it, remember the golden rule of investing - Never invest more than what you’re willing to lose",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "If you want excitement, take 100$ and go to Vegas”",
                     "premiseCenter": "",
                     "supportClaim": "If you absolutely must, no more than 10% of your portfolio must be invested in risky assets",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -243,13 +243,13 @@
             "claim": [
                 {
                     "content": "Yes, you should.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Yes, you should.",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "to successfully earn off cryptocurrency, it’s all about timing, studying the market if you decide to self trade",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -257,13 +257,13 @@
                     "content": "I have been investing in crypto for a while now, seems to have a similar pattern every time and don't look at the market very often now",
                     "premiseCenter": "",
                     "supportClaim": "Yes, you should.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Yes, you should."
                 },
                 {
                     "content": "Bitcoin is a decentralized digital currency and I would say that to successfully earn off cryptocurrency, it’s all about timing, studying the market if you decide to self trade, but luckily for me, I use Cryptoblock Invest and this platform manages all possible risks with their various Trading and Hodling programs",
                     "premiseCenter": "",
                     "supportClaim": "Yes, you should.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Yes, you should."
                 }
             ]
         },
@@ -285,8 +285,8 @@
             "claim": [
                 {
                     "content": "It’s not too late to invest",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It’s not too late to invest",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": []
@@ -308,13 +308,13 @@
             "claim": [
                 {
                     "content": "Bill is a cryptocurrency, or a form of digital currency that uses cryptography for security",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Bitcoin is like digital gold",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -322,25 +322,25 @@
                     "content": "Individual Bitcoins are created by computer code, with a maximum of 21 million Bitcoins in existence",
                     "premiseCenter": "",
                     "supportClaim": "Bill is a cryptocurrency, or a form of digital currency that uses cryptography for security",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Most of the money supply is already here, which means Bitcoin is not inflationary",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is like digital gold",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Bitcoin is a deflationary currency with a fixed supply, meaning that once miners have minted all 21 million bitcoins and the code states no more bitcoins can be mined, then the price of each bitcoin would likely shoot up.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is like digital gold",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Just like gold has value because it is scarce, so does bitcoin, the digital store of value that can be sent around the world instantly, securely and for free",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is like digital gold",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 }
             ]
         },
@@ -404,28 +404,28 @@
             "claim": [
                 {
                     "content": "If you understand the potential impact of Bitcoin, it won’t be hard to understand why investing in bitcoin may be a good idea",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "There is no official Bitcoin price",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "But bitcoin trading is minimalistic",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "Bitcoin’s monetary policy is one of its most important features.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "Here are some serious risks associated with bitcoin investments.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": [
@@ -433,67 +433,67 @@
                     "content": "Let’s look to gold as an example currency. There is a limited amount of gold on earth.\n\nAs new gold is mined, there is always less and less gold left and it becomes harder and more expensive to find and mine.\n\nFor this reason, along with Gold’s millenia-long history as a medium of exchange, it has long been considered a hedge against monetary inflation.",
                     "premiseCenter": "",
                     "supportClaim": "If you understand the potential impact of Bitcoin, it won’t be hard to understand why investing in bitcoin may be a good idea",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "In addition to being scarce, bitcoins are useful.\n\nBitcoin provides sound and predictable monetary policy that can be verified by anyone.",
                     "premiseCenter": "",
                     "supportClaim": "If you understand the potential impact of Bitcoin, it won’t be hard to understand why investing in bitcoin may be a good idea",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "While many famous people on the internet may tell you different stories, smart investors always advise to never risk more money than you can afford to lose",
                     "premiseCenter": "",
                     "supportClaim": "But bitcoin trading is minimalistic",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "It’s possible to see when new bitcoins are created, when a transaction is created, or how many bitcoins are in circulation.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin’s monetary policy is one of its most important features.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 },
                 {
                     "content": "Bitcoin makes cross border payments possible, and also provides an easy way for people to escape failed government monetary policy.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin’s monetary policy is one of its most important features.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 },
                 {
                     "content": "The internet made information global and easy to access. A sound, global currency like Bitcoin will have the same impact on finance and the global economy.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin’s monetary policy is one of its most important features.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 },
                 {
                     "content": "Volatility. The price of bitcoin is always rippling back and forth. If you happened to buy bitcoin on December 17, 2017, the price was $20,000. Weeks later, you couldn’t sell your investment for more than $7,051. The bitcoin market is constantly changing. With such an unpredictable market, you can hardly get a good return on your investment. To avoid huge loss, keep a close eye on the market.",
                     "premiseCenter": "",
                     "supportClaim": "There is no official Bitcoin price",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Threat of online hacking. Hacking is a big threat facing a bitcoin investor. Bitcoin exchanges let you buy and sell your cryptos using a mobile app or website. This leaves them susceptible to hacking and theft of all your investment. And bitcoin held on exchanges isn’t insured by the FDIC.",
                     "premiseCenter": "",
                     "supportClaim": "Here are some serious risks associated with bitcoin investments.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "Little or no regulation. The bitcoin market currently operates with no major regulations. It isn’t taxed and governments have no clear stance on it. As a result, you could stand exposed to fraud and malpractice.",
                     "premiseCenter": "",
                     "supportClaim": "Here are some serious risks associated with bitcoin investments.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "Limited use. Bitcoin is currently only accepted by few online merchants. Many companies don’t also recognize bitcoin as a legitimate exchange, making it an unfeasible investment vessel. Besides, there’s only a fixed supply of bitcoin — 21 million.",
                     "premiseCenter": "",
                     "supportClaim": "Here are some serious risks associated with bitcoin investments.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "Wallets can be lost. If your hard drive crashes or virus corrupts your wallet file, you lose your bitcoins. You can go from a wealthy to bankrupt investor within seconds with no way to recover.",
                     "premiseCenter": "",
                     "supportClaim": "Here are some serious risks associated with bitcoin investments.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -521,18 +521,18 @@
             "claim": [
                 {
                     "content": "One could argue that gold served a physical world well, we now live in a more digital one",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Bitcoin is pretty useless. But so is gold.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Forget Bitcoin's intrinsic use, no-one ever cared about gold's either, but as more sophisticated investors buy into Bitcoin, which will spur on others, it will entrench itself as digital gold",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -540,25 +540,25 @@
                     "content": "However, the world is changing fast - one could argue that gold served a physical world well, we now live in a more digital one",
                     "premiseCenter": "",
                     "supportClaim": "One could argue that gold served a physical world well, we now live in a more digital one",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "The world does move on - I mean, horses were THE mode of transport for THOUSANDS of years - and that ended pretty abruptly",
                     "premiseCenter": "",
                     "supportClaim": "One could argue that gold served a physical world well, we now live in a more digital one",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Investoring banks are advising their clients to buy it, institutions are buying it, HNW investors are dumping gold and going for it",
                     "premiseCenter": "",
                     "supportClaim": "Forget Bitcoin's intrinsic use, no-one ever cared about gold's either, but as more sophisticated investors buy into Bitcoin, which will spur on others, it will entrench itself as digital gold",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 },
                 {
                     "content": "Forget Bitcoin's intrinsic use, no-one ever cared about gold's either",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is pretty useless. But so is gold.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 }
             ]
         },
@@ -583,18 +583,18 @@
             "claim": [
                 {
                     "content": "We continue to feel strong about Bitcoin being the leading indicator for cryptocurrencies",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "It should be used to determine the trend: up, down, neutral",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It should be used to determine the trend: up, down, neutral",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "This doesn’t mean you should not invest in bitcoin. Instead, let experts handle your investment.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -602,37 +602,37 @@
                     "content": "Bitcoin is not likely the cryptocurrency that will deliver 10-fold returns similar to the previous 7 years.\n\nThe underlying reason is that Bitcoin futures will cap the upside potential because, for the first time since Bitcoin’s inception, there is two-sided trading in the Bitcoin market.\n\nThat’s why forecasters believe that it is very realistic to expect a Bitcoin price of $25,000 as an upside target, assuming the crypto crash is over. Previous all-time highs will be taken out, but we believe Bitcoin will trade within its ‘bullish band’, not higher.",
                     "premiseCenter": "",
                     "supportClaim": "We continue to feel strong about Bitcoin being the leading indicator for cryptocurrencies",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "It should be used to determine the trend: up, down, neutral",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "However, Bitcoin is not likely the cryptocurrency that will deliver 10-fold returns similar to the previous 7 years",
                     "premiseCenter": "",
                     "supportClaim": "This doesn’t mean you should not invest in bitcoin. Instead, let experts handle your investment.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "The underlying reason is that Bitcoin futures will cap the upside potential because, for the first time since Bitcoin’s inception, there is two-sided trading in the Bitcoin market",
                     "premiseCenter": "",
                     "supportClaim": "It should be used to determine the trend: up, down, neutral",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It should be used to determine the trend: up, down, neutral"
                 },
                 {
                     "content": "That’s why forecasters believe that it is very realistic to expect a Bitcoin price of $25,000 as an upside target, assuming the crypto crash is over",
                     "premiseCenter": "",
                     "supportClaim": "It should be used to determine the trend: up, down, neutral",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It should be used to determine the trend: up, down, neutral"
                 },
                 {
                     "content": "Previous all-time highs will be taken out",
                     "premiseCenter": "",
                     "supportClaim": "This doesn’t mean you should not invest in bitcoin. Instead, let experts handle your investment.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 }
             ]
         },
@@ -652,13 +652,13 @@
             "claim": [
                 {
                     "content": "if you’re wondering should you invest in Bitcoin, the answer is yes",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "If you have some cash to spare, investing in some cryptocurrency is not a bad idea",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -666,13 +666,13 @@
                     "content": "Bitcoin is currently at its peak when it comes to value, so if you’re wondering should you invest in Bitcoin, the answer is yes",
                     "premiseCenter": "",
                     "supportClaim": "if you’re wondering should you invest in Bitcoin, the answer is yes",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Consider Bitcoin’s current value, you can easily profit from investment",
                     "premiseCenter": "",
                     "supportClaim": "If you have some cash to spare, investing in some cryptocurrency is not a bad idea",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 }
             ]
         },
@@ -695,18 +695,18 @@
             "claim": [
                 {
                     "content": "Venture capitalists have poured tons of money into the Bitcoin ecosystem",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "Through a global transaction network, bitcoins can be sent securely across borders, in any amount, at low costs, as seamlessly as a text message, and without the need for trusted third-parties",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "The bitcoin protocol provides the most secure system to make online payments and with so many payment processing system creating products for the end user, bitcoins are definitely one of the most significant options to proceed online payments",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -714,19 +714,19 @@
                     "content": "As more products are build and used in the bitcoin ecosystem, the adoption rate for Bitcoins will increase and its demand with it",
                     "premiseCenter": "",
                     "supportClaim": "Venture capitalists have poured tons of money into the Bitcoin ecosystem",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "Over 100,000 merchants worldwide now accept bitcoin",
                     "premiseCenter": "",
                     "supportClaim": "Through a global transaction network, bitcoins can be sent securely across borders, in any amount, at low costs, as seamlessly as a text message, and without the need for trusted third-parties",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 },
                 {
                     "content": "The number of active wallet addresses on the Bitcoin network continues to grow – a key sign of a vibrant and growing financial ecosystem – while the methods for sending, receiving, and storing bitcoins continue to improve at both the consumer and institutional levels",
                     "premiseCenter": "",
                     "supportClaim": "Through a global transaction network, bitcoins can be sent securely across borders, in any amount, at low costs, as seamlessly as a text message, and without the need for trusted third-parties",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 }
             ]
         },
@@ -765,49 +765,49 @@
                     "content": "When you reduce the amount of some assets, it creates scarcity",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Scarcity makes prices of this asset go up",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Something like this will happen in the period of the upcoming two years",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Bitcoin halving is planned to occur in March of 2024",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "By that time, the current Bitcoin bearish market will end",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "We can expect the rise of Bitcoin and all the cryptocurrencies along with it",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "It’s no secret that literally all cryptvings price range, we can predict that the next Bitcoin halving will be followed by a Bitcoin take-off to the $100,000 price tag",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "This strategy is not an investment in the broad sense",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -836,8 +836,8 @@
             "claim": [
                 {
                     "content": "The cryptocurrency market has been growing at an exponential pace and making a number of people very rich",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -845,13 +845,13 @@
                     "content": "The cryptocurrency market has been growing at an exponential pace and making a number of people very rich",
                     "premiseCenter": "",
                     "supportClaim": "The cryptocurrency market has been growing at an exponential pace and making a number of people very rich",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "The technology underlying cryptocurrencies – called Blockchain technology – has the potential to change our lives for the better",
                     "premiseCenter": "",
                     "supportClaim": "The cryptocurrency market has been growing at an exponential pace and making a number of people very rich",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 }
             ]
         },
@@ -872,8 +872,8 @@
             "claim": [
                 {
                     "content": "I would say YES! Bitcoin has been a good thing for me and lots of people i am sure",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": []
@@ -905,13 +905,13 @@
             "claim": [
                 {
                     "content": "If you are looking to invest in a large-cap crypto, ETH could be a better choice due to it’s necessity as an currency for conducting transactions on the Ethereum network, which is continually growing its user base",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "That’s up to you.",
-                    "claimCenter": "That’s up to you.",
-                    "claimSentiment": "Neutral"
+                    "claimCenter": "Yes, you should.",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -919,19 +919,19 @@
                     "content": "Even though Ethereum is very slow, many Layer-2s are being built on-top of it that improve its speed and transaction volume",
                     "premiseCenter": "",
                     "supportClaim": "If you are looking to invest in a large-cap crypto, ETH could be a better choice due to it’s necessity as an currency for conducting transactions on the Ethereum network, which is continually growing its user base",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "These Layer-2s also need ETH as gas to run their network, which could increase demand for ETH further.",
                     "premiseCenter": "",
                     "supportClaim": "If you are looking to invest in a large-cap crypto, ETH could be a better choice due to it’s necessity as an currency for conducting transactions on the Ethereum network, which is continually growing its user base",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Both Bitcoin and ETH are considered the “safest” crypto assets, but they have such large market caps, that if you are seeking for a truly explosive asset that will grow 5x, 10x, or 100x, you are looking in the wrong place",
                     "premiseCenter": "",
                     "supportClaim": "That’s up to you.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Yes, you should."
                 }
             ]
         },
@@ -951,13 +951,13 @@
             "claim": [
                 {
                     "content": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "It is more of a gamble than an investment",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It’s not too late to invest",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -965,19 +965,19 @@
                     "content": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in",
                     "premiseCenter": "",
                     "supportClaim": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Bitcoin should be regarded as a highly volatile and risky asset class with a limited trading history",
                     "premiseCenter": "",
                     "supportClaim": "It is more of a gamble than an investment",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "it can be detached from other market forces",
                     "premiseCenter": "",
                     "supportClaim": "It is more of a gamble than an investment",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 }
             ]
         },
@@ -1009,18 +1009,18 @@
             "claim": [
                 {
                     "content": "One could argue that gold served a physical world well, we now live in a more digital one",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "This is massive",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "This is massive",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "Forget Bitcoin's intrinsic use, no-one ever cared about gold's either, but as more sophisticated investors buy into Bitcoin, which will spur on others, it will entrench itself as digital gold",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is like digital gold",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1028,7 +1028,7 @@
                     "content": "Gold's value comes from its BRAND and scarcity. That brand has taken thousands of years to build.\n\nHowever, the world is changing fast - one could argue that gold served a physical world well, we now live in a more digital one. The world does move on - I mean, horses were THE mode of transport for THOUSANDS of years - and that ended pretty abruptly.\n\nNow, here's the thing, Bitcoin has gone past a hurdle most of us never thought it would - investment banks are advising their clients to buy it, institutions are buying it, HNW investors are dumping gold and going for it.\n\nThis is massive. This is BRAND.",
                     "premiseCenter": "",
                     "supportClaim": "One could argue that gold served a physical world well, we now live in a more digital one",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is like digital gold"
                 }
             ]
         },
@@ -1052,13 +1052,13 @@
             "claim": [
                 {
                     "content": "Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "The significant thing is to do your own research and comprehend the dangers",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "The significant thing is to do your own research and comprehend the dangers",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1066,25 +1066,25 @@
                     "content": "Cryto-currency esteems don't move with the economic cycle as they are incredibly unpredictable. They go all over with media inclusion and financial specialist hypothesis.",
                     "premiseCenter": "",
                     "supportClaim": "Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "They go all over with media inclusion and financial specialist hypothesis",
                     "premiseCenter": "",
                     "supportClaim": "Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "while numerous celebrated individuals on the web may reveal to you various stories, smart investors consistently encourage to never chance more cash than you can stand to lose",
                     "premiseCenter": "",
                     "supportClaim": "The significant thing is to do your own research and comprehend the dangers",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "The significant thing is to do your own research and comprehend the dangers"
                 },
                 {
                     "content": "Regardless of whether you figure Bitcoin will rise or fall, Vest Coin Hub has been a consistent changing experience",
                     "premiseCenter": "",
                     "supportClaim": "The significant thing is to do your own research and comprehend the dangers",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "The significant thing is to do your own research and comprehend the dangers"
                 }
             ]
         },
@@ -1105,8 +1105,8 @@
             "claim": [
                 {
                     "content": "The simple answer is Yes.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Yes, you should.",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1114,13 +1114,13 @@
                     "content": "They guarantee profits both weekly and monthly",
                     "premiseCenter": "",
                     "supportClaim": "The simple answer is Yes.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Yes, you should."
                 },
                 {
                     "content": "It would be advisable to start with the smallest mining plan especially if you are a beginner and you are scared of the risk involved",
                     "premiseCenter": "",
                     "supportClaim": "The simple answer is Yes.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Yes, you should."
                 }
             ]
         },
@@ -1150,18 +1150,18 @@
             "claim": [
                 {
                     "content": "It is unwise not to invest in Bitcoin.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "It is almost certainly in a bubble.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It is almost certainly in a bubble.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "go for it",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Yes, you should.",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": [
@@ -1175,7 +1175,7 @@
                     "content": "The value of bitcoin seven years ago was $0.05 and last month it reached $5,000 which means 100,000 times increase in seven years.",
                     "premiseCenter": "",
                     "supportClaim": "It is unwise not to invest in Bitcoin.",
-                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -1204,31 +1204,31 @@
                     "content": "According to them, the ship already left the harbor, without them",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "There may well be an inkling of truth in that, but there are still more opportunities lying ahead",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "The dust hasn’t yet settled on this evolving money revolution",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "If you are hearing about Bitcoin for the first time, simple Google “Bitcoin Success stories” and read about a man who spent $3000 in October 2010 to buy 20,000 at $0.15 each",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Read the story of 32-year-old James Howell who accidentally discarded his hard drive with 7,500 Bitcoins; that would be worth $56 million today",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -1257,9 +1257,9 @@
             "date": "1y",
             "claim": [
                 {
-                    "content" : "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "claimCenter" : "",
-                    "claimSentiment" : ""
+                    "content": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
+                    "claimCenter": "It is almost certainly in a bubble.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": [
@@ -1267,31 +1267,31 @@
                     "content": "So today 1 Bitcoin is equal to Rs 3425165.13 this is a lot of money",
                     "premiseCenter": "",
                     "supportClaim": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "Now in simple terms Bitcoin works on demand and supply only. It has no intrinsic value of its own",
                     "premiseCenter": "",
                     "supportClaim": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "Money was also given to the citizens of US to survive the onslaught of the coronavirus pandemic",
                     "premiseCenter": "",
                     "supportClaim": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "Now during the same pandemic new speculative traders and investors got the chance of a lifetime to try their hand in the world of financial markets i.e. the stock markets, crypto, gold, silver other commodities etc.",
                     "premiseCenter": "",
                     "supportClaim": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "So what they did was that based on greed, news, speculation and more speculation these people started pumping the Bitcoin like there is no tomorrow",
                     "premiseCenter": "",
                     "supportClaim": "I urge people to please take a look at the following chart of Bitcoin to understand this bubble",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 }
             ]
         },
@@ -1312,14 +1312,14 @@
             "date": "1y",
             "claim": [
                 {
-                    "content" : "Try thinking of investing in bitcoin as you would buying a lottery ticket.",
-                    "claimCenter" : "",
-                    "claimSentiment" : ""
+                    "content": "Try thinking of investing in bitcoin as you would buying a lottery ticket.",
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 },
                 {
-                    "content" : "Keep that in mind, and do your own research based on where you live",
-                    "claimCenter" : "",
-                    "claimSentiment" : ""
+                    "content": "Keep that in mind, and do your own research based on where you live",
+                    "claimCenter": "The significant thing is to do your own research and comprehend the dangers",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1327,25 +1327,25 @@
                     "content": "As historically shown with commodities, the odds are good that you're going to lose money compared with a low-cost, diversified investment",
                     "premiseCenter": "",
                     "supportClaim": "Try thinking of investing in bitcoin as you would buying a lottery ticket.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Bitcoin is open to everyone and provides an exciting opportunity to delve into an entirely new asset class",
                     "premiseCenter": "",
                     "supportClaim": "Keep that in mind, and do your own research based on where you live",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "The significant thing is to do your own research and comprehend the dangers"
                 },
                 {
                     "content": "Investing in bitcoin may seem scary, but know that it takes time and effort to understand how Bitcoin works",
                     "premiseCenter": "",
                     "supportClaim": "Keep that in mind, and do your own research based on where you live",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "The significant thing is to do your own research and comprehend the dangers"
                 },
                 {
                     "content": "Also keep in mind that the Bitcoin are varied",
                     "premiseCenter": "",
                     "supportClaim": "Keep that in mind, and do your own research based on where you live",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "The significant thing is to do your own research and comprehend the dangers"
                 }
             ]
         },
@@ -1376,8 +1376,8 @@
             "claim": [
                 {
                     "content": "What makes bitcoins valuable is because bitcoins are scarce and useful",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": [
@@ -1385,19 +1385,19 @@
                     "content": "This is the best and no other time to invest in bitcoins and double your investments in order to be financially bouyant and have financial freedom in this Covid-19",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Over the past months, the price of bitcoin has been hovering around $9,283",
                     "premiseCenter": "",
                     "supportClaim": "What makes bitcoins valuable is because bitcoins are scarce and useful",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "It seems silly to some people that one bitcoin can be worth hundreds of dollars",
                     "premiseCenter": "",
                     "supportClaim": "What makes bitcoins valuable is because bitcoins are scarce and useful",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -1420,18 +1420,18 @@
             "claim": [
                 {
                     "content": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "it also presents a great opportunity for investors who are looking to make quick profits",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Bitcoin is decentralized, which means it isn't controlled by any single entity like a central bank or government",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": [
@@ -1439,19 +1439,19 @@
                     "content": "Bitcoin is still in its early days. Yes, it's been around for a while now, but the cryptocurrency market is still relatively new and unregulated. This means there are plenty of opportunities for making money with Bitcoin.",
                     "premiseCenter": "",
                     "supportClaim": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "Bitcoin is incredibly volatile. While this may scare some people off, it also presents a great opportunity for investors who are looking to make quick profits.",
                     "premiseCenter": "",
                     "supportClaim": "it also presents a great opportunity for investors who are looking to make quick profits",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes."
                 },
                 {
                     "content": "This makes it resistant to censorship and tampering, which is a big plus for investors who value sovereignty and freedom",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is decentralized, which means it isn't controlled by any single entity like a central bank or government",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -1479,13 +1479,13 @@
             "claim": [
                 {
                     "content": "If you are worried that you missed one of the insane bull run, bubble whatever",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It is almost certainly in a bubble.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "Invest in Bitcoin, only if you are okay to loss all.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1493,25 +1493,25 @@
                     "content": "it took 3 years to break the $20,000 barrier",
                     "premiseCenter": "",
                     "supportClaim": "If you are worried that you missed one of the insane bull run, bubble whatever",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "in year 2020, it broke that resistance level and shot upto $40,000 which was hit recently",
                     "premiseCenter": "",
                     "supportClaim": "If you are worried that you missed one of the insane bull run, bubble whatever",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "Instant 100% rise in less than 3 months",
                     "premiseCenter": "",
                     "supportClaim": "If you are worried that you missed one of the insane bull run, bubble whatever",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 },
                 {
                     "content": "even people with balls of steel can’t see their investment going down 90%",
                     "premiseCenter": "",
                     "supportClaim": "If you are worried that you missed one of the insane bull run, bubble whatever",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It is almost certainly in a bubble."
                 }
             ]
         },
@@ -1555,8 +1555,8 @@
             "claim": [
                 {
                     "content": "Crypto will never be real money.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": []
@@ -1586,13 +1586,13 @@
             "claim": [
                 {
                     "content": "You can see the gains!",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "You can see the gains!",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "It’s not too late to invest",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "It’s not too late to invest",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1600,43 +1600,43 @@
                     "content": "1$ to $60000 in just 10years! Nothing in human history has given such tremendous results!Bitcoin is immune to inflation.",
                     "premiseCenter": "",
                     "supportClaim": "You can see the gains!",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "You can see the gains!"
                 },
                 {
                     "content": "Bitcoin transactions are instant, unlike the settlement of stock trading orders which could take days or weeks",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "Crypto Market is open 24*7",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "It’s a global market",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "Bitcoin is arguably one of the most liquid investment assets",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "The high liquidity makes it a great investment vessel if you're looking for short-term profit",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 },
                 {
                     "content": "With the most awaited Ethereum 2.0 launch the price of Ethereum will skyrocket like crazy",
                     "premiseCenter": "",
                     "supportClaim": "It’s not too late to invest",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "It’s not too late to invest"
                 }
             ]
         },
@@ -1658,18 +1658,18 @@
             "claim": [
                 {
                     "content": "The crypto scene is full of newbies and fake experts with dangerous advice",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "this is your opportunity to learn from someone with over a decade of real world experience",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "this is your opportunity to learn from someone with over a decade of real world experience",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "you don’t need to repeat them and learn the hard way",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "this is your opportunity to learn from someone with over a decade of real world experience",
+                    "claimSentiment": "Positive"
                 }
             ],
             "premise": []
@@ -1717,13 +1717,13 @@
             "claim": [
                 {
                     "content": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Investing money you can afford to lose is also critical.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1731,37 +1731,37 @@
                     "content": "For one thing, while Bitcoin may have been around for a lot less time than many of the companies that trade on the stock market today, it has been around in a lot of other digital currencies",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "The price of equities is known to fluctuate, but Bitcoin has seen even more extreme price movements",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "It's impossible to predict whether or not this currency will catch on",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "Getting rich overnight is a risky endeavor if the only goal is to become wealthy. Not every investment opportunity is a sure bet. Also, if you put a lot of money into an investment that doesn't pan out, that could end up being a costly mistake.",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "As well, there is no guarantee what kinds of regulatory issues may arise with regard to digital currencies such as Bitcoin.",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 },
                 {
                     "content": "No one can know if Bitcoin and other cryptocurrencies will be part of the global financial system for another decade or more.",
                     "premiseCenter": "",
                     "supportClaim": "Think carefully about why you want to invest in cryptocurrency before you do so.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 }
             ]
         },
@@ -1803,13 +1803,13 @@
                     "content": "Bitcoin is a popular digital asset and payment system",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "you need to know to use it and avoid mistakes",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -1837,43 +1837,43 @@
                     "content": "The price of Bitcoin is rising because people are not selling it because of its volatile price and future prospects",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "It was initially mined by some clever investors and probably built by them too",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "A lot of money was secretly spent on its promotion",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "People were told that it was the currency of the future",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "But even today no one uses it as a currency and no one will in the past",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "The purpose of every person who buys it is to sell it and become rich in the future when its prices go up",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "There will come a time when most people will have invested in it and everyone who has invest in it to get rich will start selling it and then there will",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -1895,13 +1895,13 @@
             "claim": [
                 {
                     "content": "Buying bitcoin or other cryptocurrencies can be a fun way to explore an experimental new investment. But it’s also true that any investment in cryptocurrency should carry a warning label like cigarettes: “This product may be harmful to the health of your finances. Never buy more than you can afford to lose.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "One rule of thumb is to invest no more than 10% of your portfolio in individual stocks or risky assets like bitcoin. If you’re new to investing",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1909,7 +1909,7 @@
                     "content": "Like all cryptocurrencies, bitcoin is experimental and subject to much more volatility than many tried-and-true investments, such as stocks, bonds and mutual funds",
                     "premiseCenter": "",
                     "supportClaim": "Buying bitcoin or other cryptocurrencies can be a fun way to explore an experimental new investment. But it’s also true that any investment in cryptocurrency should carry a warning label like cigarettes: “This product may be harmful to the health of your finances. Never buy more than you can afford to lose.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 }
             ]
         },
@@ -1934,8 +1934,8 @@
             "claim": [
                 {
                     "content": "You can invest in bitcoin, because it has the most convenient and rewarding platform",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -1943,13 +1943,13 @@
                     "content": "It can help you generate and control your money to your satisfaction",
                     "premiseCenter": "",
                     "supportClaim": "You can invest in bitcoin, because it has the most convenient and rewarding platform",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "To invest in bitcoin without running any risk of scam or incompetence, then you are welcome to checkbitcoins",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -1983,43 +1983,43 @@
                     "content": "Price of Bitcoins are getting higher & higher each day",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "When Bitcoins was launched initially,it was priced for $0008 per Bitcoins",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "See years it has been ups & down",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "People want to be rich within day, but it cannot happen in crypto currency because it goes through various phases & many factors are involved in it's growth",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "Don't invest in Bitcoins if you are looking to be millionaire within day",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "People who are benefitted are one's who have waited for 7–8 year & made constant purchase",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 },
                 {
                     "content": "When people buy virtual currency, they influence people to buy more to raise price",
                     "premiseCenter": "",
                     "supportClaim": "None",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "None"
                 }
             ]
         },
@@ -2043,7 +2043,7 @@
             "claim": [
                 {
                     "content": "I recommend investing on (investments bay, com) from now!",
-                    "claimCenter": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
                     "claimSentiment": "Neutral"
                 }
             ],
@@ -2052,7 +2052,7 @@
                     "content": "I strongly believe that by the end of 2020 or 2021 BTC will reach anywhere between 30–50k each & etherum will reach arond 8–10k each. I know that sounds crazy but when I started investing in 2015 and I told my buddies to also do so, but they said I was stupid and would lose all my money. I told them it would reach at least 10k by 2018 but it reached almost 20k a piece. Thats when they decided to buy bitcoin at 14k when they could have bought it at $350 like I did.",
                     "premiseCenter": "",
                     "supportClaim": "I recommend investing on (investments bay, com) from now!",
-                    "supportClaimCenter": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy"
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 }
             ]
         },
@@ -2077,8 +2077,8 @@
             "claim": [
                 {
                     "content": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": [
@@ -2086,25 +2086,25 @@
                     "content": "You can make profits with Bitcoin simply by following a DCA strategy, which is a low-risk strategy suitable to most investors",
                     "premiseCenter": "",
                     "supportClaim": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "You can increase your ROI by participating in Bitcoin mining and/or staking, though at this point mining other crypto currencies is more profitable than concentrating on Bitcoin or Ether",
                     "premiseCenter": "",
                     "supportClaim": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Keep in mind that cryptocurrency market is extremely volatile, so you should be prepared for long-term investing rather than trying to concentrate on quick profit",
                     "premiseCenter": "",
                     "supportClaim": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 },
                 {
                     "content": "Before investing in Bitcoin, think about your storage preferences first",
                     "premiseCenter": "",
                     "supportClaim": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Invest in Bitcoin, only if you are okay to loss all."
                 }
             ]
         },
@@ -2129,8 +2129,8 @@
             "claim": [
                 {
                     "content": "Bitcoin is extremely volatile, but if you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Invest in Bitcoin, only if you are okay to loss all.",
+                    "claimSentiment": "Neutral"
                 }
             ],
             "premise": []
@@ -2162,18 +2162,18 @@
             "claim": [
                 {
                     "content": "Anyone who bought Bitcoin and held it for five years or more made significant returns on investment",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+                    "claimSentiment": "Positive"
                 },
                 {
                     "content": "Bitcoin has continuously proven itself to be the greatest investment of the decade.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": [
@@ -2181,19 +2181,19 @@
                     "content": "The stock market does not perform like this",
                     "premiseCenter": "",
                     "supportClaim": "Anyone who bought Bitcoin and held it for five years or more made significant returns on investment",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "A global currency like Bitcoin will have the same impact on finance and the global economy",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy"
                 },
                 {
                     "content": "If you understand the potential impact of Bitcoin, it won’t be hard to understand why investing in bitcoin may be a good idea",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin has continuously proven itself to be the greatest investment of the decade.",
-                    "supportClaimCenter": ""
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 }
             ]
         },
@@ -2235,8 +2235,8 @@
             "claim": [
                 {
                     "content": "Bitcoin is a highly risky investment and not fit for everyone.",
-                    "claimCenter": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-                    "claimSentiment": "Neutral"
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 },
                 {
                     "content": "If you have a strong mind to accept the loss, then you may invest your money.",
@@ -2249,7 +2249,7 @@
                     "content": "Massive potentials for returns.",
                     "premiseCenter": "",
                     "supportClaim": "Bitcoin is a highly risky investment and not fit for everyone.",
-                    "supportClaimCenter": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies."
+                    "supportClaimCenter": "Bitcoin is a highly risky investment and not fit for everyone."
                 },
                 {
                     "content": "Shorter time horizon",
@@ -2313,7 +2313,7 @@
             "claim": [
                 {
                     "content": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
-                    "claimCenter": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
+                    "claimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so.",
                     "claimSentiment": "Neutral"
                 }
             ],
@@ -2322,7 +2322,7 @@
                     "content": "Bitcoin is extremely volatile.",
                     "premiseCenter": "",
                     "supportClaim": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
-                    "supportClaimCenter": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy"
+                    "supportClaimCenter": "Think carefully about why you want to invest in cryptocurrency before you do so."
                 }
             ]
         },
@@ -2343,13 +2343,13 @@
             "claim": [
                 {
                     "content": "Yes, you can invest in bitcoin.",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+                    "claimSentiment": "Neutral"
                 },
                 {
                     "content": "Not everyone is willing to sacrifice their time and money",
-                    "claimCenter": "",
-                    "claimSentiment": ""
+                    "claimCenter": "Bitcoin is a highly risky investment and not fit for everyone.",
+                    "claimSentiment": "Negative"
                 }
             ],
             "premise": []
