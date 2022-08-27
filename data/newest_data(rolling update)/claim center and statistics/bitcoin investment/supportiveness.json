@@ -1,50 +1,58 @@
 [
     {
-        "text": "It’s not too late to invest.",
-        "supportiveness": 0.07692307692307693
+        "text": "Yes, you should.",
+        "supportiveness": 0.05333333333333334
     },
     {
-        "text": "Bitcoin is pretty useless. But so is gold.",
-        "supportiveness": 0.09615384615384616
+        "text": "It’s not too late to invest",
+        "supportiveness": 0.05333333333333334
     },
     {
-        "text": "I would say YES!",
-        "supportiveness": 0.038461538461538464
+        "text": "Bitcoin is like digital gold",
+        "supportiveness": 0.12
     },
     {
-        "text": "That’s up to you.",
-        "supportiveness": 0.019230769230769232
+        "text": "It should be used to determine the trend: up, down, neutral",
+        "supportiveness": 0.013333333333333334
     },
     {
-        "text": "It depends what your level of disposable income is, how great your assets are, and what other assets you have invested in.",
-        "supportiveness": 0.038461538461538464
+        "text": "This is massive",
+        "supportiveness": 0.013333333333333334
     },
     {
-        "text": "Cryto currency is an extremely high-hazard venture, and CFDs bought on margin are significantly more hazardous.",
-        "supportiveness": 0.019230769230769232
-    },
-    {
-        "text": "The significant thing is to do your own research and comprehend the dangers.",
-        "supportiveness": 0.019230769230769232
+        "text": "The significant thing is to do your own research and comprehend the dangers",
+        "supportiveness": 0.02666666666666667
     },
     {
         "text": "It is almost certainly in a bubble.",
-        "supportiveness": 0.038461538461538464
+        "supportiveness": 0.04
+    },
+    {
+        "text": "If you're wondering whether you should invest in Bitcoin, the short answer is yes.",
+        "supportiveness": 0.12
     },
     {
         "text": "Invest in Bitcoin, only if you are okay to loss all.",
-        "supportiveness": 0.21153846153846154
+        "supportiveness": 0.18666666666666668
     },
     {
-        "text": "Of course you should",
-        "supportiveness": 0.057692307692307696
+        "text": "You can see the gains!",
+        "supportiveness": 0.013333333333333334
     },
     {
-        "text": "Investing in Bitcoin is viable option especially in a view of current decline of the power of Fiat currencies.",
-        "supportiveness": 0.21153846153846154
+        "text": "this is your opportunity to learn from someone with over a decade of real world experience",
+        "supportiveness": 0.02666666666666667
     },
     {
-        "text": "If you are willing to take the risk, first make sure you understand what you are investing in and have a crypto investment strategy",
-        "supportiveness": 0.17307692307692307
+        "text": "Think carefully about why you want to invest in cryptocurrency before you do so.",
+        "supportiveness": 0.09333333333333334
+    },
+    {
+        "text": "Bitcoin makes cross-border payments possible, and also provides an easy way for people to escape failed government monetary policy",
+        "supportiveness": 0.05333333333333334
+    },
+    {
+        "text": "Bitcoin is a highly risky investment and not fit for everyone.",
+        "supportiveness": 0.18666666666666668
     }
 ]
