@@ -1,18 +1,20 @@
 {
+    "neutral": [
+        "Yes, you would.",
+        "Yes, as soon as they work and are available at a reasonable price.",
+        "Yes, definitely.",
+        "Not at the time of answering.",
+        "Yes",
+        "Yes, I really would like to have a self-driving car"
+    ],
     "positive": [
-        "I love to drive on a nice day with little or no traffic. At all other times, I'll have my car drive for me.",
-        "Yes.",
-        "Yes - in a few years it might be safer than me driving.",
-        "Yes, I would."
+        "the research shows people are amazingly trusting of them",
+        "What I mean is, autonomous cars would be great, IF THEY WERE THE ONLY CARS OUT THERE",
+        "Yes, I will.",
+        "I think that this technology has the potential to be very safe and convenient"
     ],
     "negative": [
-        "In the case I've described two paragraphs above, I'm really lost as to what fact based evidence could be used to chose the human.",
-        "No. It is too early in the technology to be able to trust the self-driving car.",
-        "Nope. Absolutely not!"
-    ],
-    "neutral": [
-        "Yes, as soon as they work and are available at a reasonable price.",
-        "Not at the time of answering.",
-        "Yes, I really would like to have a self-driving car."
+        "Absolutely. I hate driving, and can’t wait to never have to do it again.",
+        "Absolutely not!"
     ]
 }
