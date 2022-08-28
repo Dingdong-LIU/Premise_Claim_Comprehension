@@ -1,15 +1,23 @@
 [
     {
-        "text": "Yes, you would.",
-        "supportiveness": 0.08536585365853659
-    },
-    {
-        "text": "the research shows people are amazingly trusting of them",
-        "supportiveness": 0.024390243902439025
+        "text": "Yes, I really would like to have a self-driving car",
+        "supportiveness": 0.21951219512195122
     },
     {
         "text": "Absolutely. I hate driving, and can’t wait to never have to do it again.",
         "supportiveness": 0.14634146341463414
+    },
+    {
+        "text": "Yes",
+        "supportiveness": 0.10975609756097561
+    },
+    {
+        "text": "Yes, you would.",
+        "supportiveness": 0.08536585365853659
+    },
+    {
+        "text": "Yes, definitely.",
+        "supportiveness": 0.08536585365853659
     },
     {
         "text": "What I mean is, autonomous cars would be great, IF THEY WERE THE ONLY CARS OUT THERE",
@@ -20,31 +28,23 @@
         "supportiveness": 0.06097560975609756
     },
     {
-        "text": "I think that this technology has the potential to be very safe and convenient",
-        "supportiveness": 0.036585365853658534
+        "text": "Absolutely not!",
+        "supportiveness": 0.06097560975609756
     },
     {
         "text": "Yes, as soon as they work and are available at a reasonable price.",
         "supportiveness": 0.04878048780487805
     },
     {
-        "text": "Yes, definitely.",
-        "supportiveness": 0.08536585365853659
-    },
-    {
-        "text": "Absolutely not!",
-        "supportiveness": 0.06097560975609756
-    },
-    {
         "text": "Not at the time of answering.",
         "supportiveness": 0.04878048780487805
     },
     {
-        "text": "Yes",
-        "supportiveness": 0.10975609756097561
+        "text": "I think that this technology has the potential to be very safe and convenient",
+        "supportiveness": 0.036585365853658534
     },
     {
-        "text": "Yes, I really would like to have a self-driving car",
-        "supportiveness": 0.21951219512195122
+        "text": "the research shows people are amazingly trusting of them",
+        "supportiveness": 0.024390243902439025
     }
 ]
