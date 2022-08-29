@@ -57,5 +57,5 @@ def get_answers(base_dir, task_name):
         up_i = upvotes_urlEncode.index(ec)
         upvotes = upvotes_data[up_i]["upvotes"]
         answer_data[i]["upvotes"] = upvotes
-    answer_data.sort(key=lambda x : x["upvotes"], reverse=True)
+    answer_data.sort(key=lambda x : int(x["upvotes"]), reverse=True)
     return answer_data
